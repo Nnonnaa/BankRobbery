@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ClickService2\bin\Debug\ClickService2.exe.config
+C:\Users\user\source\repos\ClickService2\bin\Debug\ClickService2.exe
+C:\Users\user\source\repos\ClickService2\bin\Debug\ClickService2.pdb
+C:\Users\user\source\repos\ClickService2\obj\Debug\ClickService2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ClickService2\obj\Debug\ClickService2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClickService2\obj\Debug\ClickService2.exe
+C:\Users\user\source\repos\ClickService2\obj\Debug\ClickService2.pdb
